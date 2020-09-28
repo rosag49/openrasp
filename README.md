@@ -1,6 +1,7 @@
 # OpenRASP 
 
-[![Build Status](https://www.travis-ci.org/baidu/openrasp.svg?branch=master)](https://www.travis-ci.org/baidu/openrasp)
+[![Build Status](https://www.travis-ci.org/baidu/openrasp.svg?branch=master)](https://www.travis-ci.org/baidu/openrasp)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frosag49%2Fopenrasp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frosag49%2Fopenrasp?ref=badge_shield)
+
 [![Build Status](https://img.shields.io/badge/README-切换语言-yellow.svg)](readme-zh_CN.md)
 
 ### Introduction
@@ -71,3 +72,7 @@ Business inquires, comments, concenrs and opinions:
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frosag49%2Fopenrasp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frosag49%2Fopenrasp?ref=badge_large)
